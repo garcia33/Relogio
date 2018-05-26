@@ -1,0 +1,10 @@
+F:\Programação\C#\Relogio\Relogio\Relogio\bin\Debug\Relogio.exe.config
+F:\Programação\C#\Relogio\Relogio\Relogio\bin\Debug\Relogio.exe
+F:\Programação\C#\Relogio\Relogio\Relogio\bin\Debug\Relogio.pdb
+F:\Programação\C#\Relogio\Relogio\Relogio\obj\Debug\Relogio.csprojResolveAssemblyReference.cache
+F:\Programação\C#\Relogio\Relogio\Relogio\obj\Debug\Relogio.Form1.resources
+F:\Programação\C#\Relogio\Relogio\Relogio\obj\Debug\Relogio.Properties.Resources.resources
+F:\Programação\C#\Relogio\Relogio\Relogio\obj\Debug\Relogio.csproj.GenerateResource.cache
+F:\Programação\C#\Relogio\Relogio\Relogio\obj\Debug\Relogio.csproj.CoreCompileInputs.cache
+F:\Programação\C#\Relogio\Relogio\Relogio\obj\Debug\Relogio.exe
+F:\Programação\C#\Relogio\Relogio\Relogio\obj\Debug\Relogio.pdb
